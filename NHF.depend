@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1669557826 source:c:\users\kenobi\documents\c projektek\nhf\ellenorzo.c
+	"ellenorzo.h"
+
+1669557844 c:\users\kenobi\documents\c projektek\nhf\ellenorzo.h
+	<string.h>
+	<ctype.h>
+
+1669558439 source:c:\users\kenobi\documents\c projektek\nhf\kinezet.c
+	"kinezet.h"
+
+1669558459 c:\users\kenobi\documents\c projektek\nhf\kinezet.h
+	<stdlib.h>
+	<stdio.h>
+
+1670624605 source:c:\users\kenobi\documents\c projektek\nhf\init.c
+	"init.h"
+
+1669558420 c:\users\kenobi\documents\c projektek\nhf\init.h
+	<string.h>
+	"zene_fgk.h"
+
+1670622424 c:\users\kenobi\documents\c projektek\nhf\zene_fgk.h
+	"strukturak.h"
+	"kinezet.h"
+	"debugmalloc.h"
+	<stdio.h>
+	<strings.h>
+
+1670497123 c:\users\kenobi\documents\c projektek\nhf\strukturak.h
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1669557998 c:\users\kenobi\documents\c projektek\nhf\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1670624112 source:c:\users\kenobi\documents\c projektek\nhf\zene_fgk.c
+	"zene_fgk.h"
+	"strukturak.h"
+	"kinezet.h"
+	"debugmalloc.h"
+	<stdio.h>
+	<strings.h>
+
+1670500467 source:c:\users\kenobi\documents\c projektek\nhf\lemez_fgk.c
+	"lemez_fgk.h"
+
+1669558666 c:\users\kenobi\documents\c projektek\nhf\lemez_fgk.h
+	"strukturak.h"
+
+1670598682 source:c:\users\kenobi\documents\c projektek\nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zene_fgk.h"
+	"menu.h"
+	"kinezet.h"
+
+1669558519 c:\users\kenobi\documents\c projektek\nhf\menu.h
+	"zene_fgk.h"
+	"lemez_fgk.h"
+	<stdio.h>
+	"kinezet.h"
+
+1670624190 source:c:\users\kenobi\documents\c projektek\nhf\menu.c
+	"menu.h"
+
+1670617683 source:c:\users\kenobi\documents\c projektek\nhf\listazas.c
+	"listazas.h"
+
+1669558938 c:\users\kenobi\documents\c projektek\nhf\listazas.h
+	"strukturak.h"
+	"kinezet.h"
+
+1669559097 source:c:\users\kenobi\documents\c projektek\nhf\rendezes.c
+	"rendezes.h"
+
+1669559118 c:\users\kenobi\documents\c projektek\nhf\rendezes.h
+	"strukturak.h"
+
