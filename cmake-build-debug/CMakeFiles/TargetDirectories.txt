@@ -1,0 +1,3 @@
+C:/Users/Kenobi/Documents/C projektek/NHF/cmake-build-debug/CMakeFiles/NHF.dir
+C:/Users/Kenobi/Documents/C projektek/NHF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kenobi/Documents/C projektek/NHF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
